@@ -71,6 +71,18 @@ If you want to contribute, please feel free to submit a PR.
 * [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 * [rust-sc2](https://github.com/UltraMachine/rust-sc2)
 
+## Open-source bots
+
+### CPP bots
+
+* [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
+* [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
+* [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
+
+## Development tools
+
+* [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
