@@ -76,6 +76,7 @@ If you want to contribute, please feel free to submit a PR.
 ### CPP bots
 
 * [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
+* [cpp-sc2/blank-bot](https://github.com/cpp-sc2/blank-bot) - empty starter bot with integrated cpp-sc2.
 * [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
 
