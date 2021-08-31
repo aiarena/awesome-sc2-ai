@@ -71,6 +71,30 @@ If you want to contribute, please feel free to submit a PR.
 * [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 * [rust-sc2](https://github.com/UltraMachine/rust-sc2)
 
+## Frameworks
+
+### CSharp Frameworks
+
+* [sharky](https://github.com/sharknice/Sharky)
+
+### CPP Frameworks
+
+
+### GO Frameworks
+
+
+### Java Frameworks
+
+
+### JavaScript Frameworks
+
+
+### Python Frameworks
+* [sharpy-sc2](https://github.com/DrInfy/sharpy-sc2)
+
+### Rust Frameworks
+
+
 ## Open-source bots
 
 ### CPP bots
