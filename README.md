@@ -104,6 +104,13 @@ If you want to contribute, please feel free to submit a PR.
 * [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
 
+### Python bots
+
+* [Chance](https://github.com/lladdy/chance-sc2)
+* [python-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
+* [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
+
+
 ## Development tools
 
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
