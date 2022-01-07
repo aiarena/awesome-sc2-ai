@@ -111,6 +111,7 @@ If you want to contribute, please feel free to submit a PR.
 * [burny-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
+* [ESChamp's python-sc2 bot template](https://github.com/eschampstudio/python-sc2-bot-template)
 
 ### CSharp bots
 
