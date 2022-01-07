@@ -107,7 +107,7 @@ If you want to contribute, please feel free to submit a PR.
 ### Python bots
 
 * [Chance](https://github.com/lladdy/chance-sc2)
-* [python-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
+* [burny-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 
 
