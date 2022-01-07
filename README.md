@@ -103,6 +103,7 @@ If you want to contribute, please feel free to submit a PR.
 * [cpp-sc2/blank-bot](https://github.com/cpp-sc2/blank-bot) - empty starter bot with integrated cpp-sc2.
 * [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
+* [MicroMachine](https://github.com/RaphaelRoyerRivard/MicroMachine)
 
 ### Python bots
 
@@ -111,6 +112,9 @@ If you want to contribute, please feel free to submit a PR.
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
 
+### CSharp bots
+
+* [Tyr](https://github.com/SimonPrins/TyrSc2)
 
 ## Development tools
 
