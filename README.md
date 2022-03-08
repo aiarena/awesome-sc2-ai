@@ -77,22 +77,8 @@ If you want to contribute, please feel free to submit a PR.
 
 * [sharky](https://github.com/sharknice/Sharky)
 
-### CPP Frameworks
-
-
-### GO Frameworks
-
-
-### Java Frameworks
-
-
-### JavaScript Frameworks
-
-
 ### Python Frameworks
 * [sharpy-sc2](https://github.com/DrInfy/sharpy-sc2)
-
-### Rust Frameworks
 
 
 ## Open-source bots
@@ -119,20 +105,8 @@ If you want to contribute, please feel free to submit a PR.
 
 ## Tutorials
 
-### CSharp Tutorials
-
-### CPP Tutorials
-
-### GO Tutorials
-
-### Java Tutorials
-
-### JavaScript Tutorials
-
 ### Python Tutorials
 * [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
-
-### Rust Tutorials
 
 ## Development tools
 
