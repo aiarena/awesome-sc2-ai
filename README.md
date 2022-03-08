@@ -4,6 +4,7 @@ A curated list of SC2 AI code and resources
 If you want to contribute, please feel free to submit a PR.
 
 ## Table of contents
+
   - [APIs](#apis)
     - [C#](#csharp-apis)
     - [C++](#cpp-apis)
@@ -14,28 +15,15 @@ If you want to contribute, please feel free to submit a PR.
     - [Rust](#rust-apis)
   - [Frameworks](#frameworks)
     - [C#](#csharp-frameworks)
-    - [C++](#cpp-frameworks)
-    - [Go](#go-frameworks)
-    - [Java](#java-frameworks)
-    - [JavaScript](#javascript-frameworks)
     - [Python](#python-frameworks)
-    - [Rust](#rust-frameworks)
+  - [Libraries](#libraries)
+    - [Python](#python-libraries)
   - [Open-source bots](#open-source-bots)
     - [C#](#csharp-bots)
     - [C++](#cpp-bots)
-    - [Go](#go-bots)
-    - [Java](#java-bots)
-    - [JavaScript](#javascript-bots)
     - [Python](#python-bots)
-    - [Rust](#rust-bots)
   - [Tutorials](#tutorials)
-    - [C#](#csharp-tutorials)
-    - [C++](#cpp-tutorials)
-    - [Go](#go-tutorials)
-    - [Java](#java-tutorials)
-    - [JavaScript](#javascript-tutorials)
     - [Python](#python-tutorials)
-    - [Rust](#rust-tutorials)
   - [Development tools](#development-tools)
   - [License](#license)
 
@@ -80,6 +68,12 @@ If you want to contribute, please feel free to submit a PR.
 ### Python Frameworks
 * [sharpy-sc2](https://github.com/DrInfy/sharpy-sc2)
 
+## Libraries
+
+### Python Libraries
+
+* [BossMan](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
+* [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
 
 ## Open-source bots
 
@@ -106,11 +100,14 @@ If you want to contribute, please feel free to submit a PR.
 ## Tutorials
 
 ### Python Tutorials
+
 * [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
+* [ESChamp - Simple StarCraft 2 Bot Template To Get Started](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
 
 ## Development tools
 
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
+* [aiarena-docker](https://github.com/aiarena/aiarena-docker) - Standard arena client docker environment used in competitions.
 
 ## License
 
