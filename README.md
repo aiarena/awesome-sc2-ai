@@ -9,7 +9,7 @@ If you want to contribute, please feel free to submit a PR.
     - [C++](#cpp-apis)
     - [Go](#go-apis)
     - [Java](#java-apis)
-    - [JavaScript](#js-apis)
+    - [JavaScript](#javascript-apis)
     - [Python](#python-apis)
     - [Rust](#rust-apis)
   - [Frameworks](#frameworks)
@@ -17,25 +17,25 @@ If you want to contribute, please feel free to submit a PR.
     - [C++](#cpp-frameworks)
     - [Go](#go-frameworks)
     - [Java](#java-frameworks)
-    - [JavaScript](#js-frameworks)
+    - [JavaScript](#javascript-frameworks)
     - [Python](#python-frameworks)
     - [Rust](#rust-frameworks)
-  - [Libraries](#libraries)
-    - [C#](#csharp-lib)
-    - [C++](#cpp-lib)
-    - [Go](#go-lib)
-    - [Java](#java-lib)
-    - [JavaScript](#js-lib)
-    - [Python](#python-lib)
-    - [Rust](#rust-lib)
   - [Open-source bots](#open-source-bots)
     - [C#](#csharp-bots)
     - [C++](#cpp-bots)
     - [Go](#go-bots)
     - [Java](#java-bots)
-    - [JavaScript](#js-bots)
+    - [JavaScript](#javascript-bots)
     - [Python](#python-bots)
     - [Rust](#rust-bots)
+  - [Tutorials](#tutorials)
+    - [C#](#csharp-tutorials)
+    - [C++](#cpp-tutorials)
+    - [Go](#go-tutorials)
+    - [Java](#java-tutorials)
+    - [JavaScript](#javascript-tutorials)
+    - [Python](#python-tutorials)
+    - [Rust](#rust-tutorials)
   - [Development tools](#development-tools)
   - [License](#license)
 
@@ -116,6 +116,23 @@ If you want to contribute, please feel free to submit a PR.
 ### CSharp bots
 
 * [Tyr](https://github.com/SimonPrins/TyrSc2)
+
+## Tutorials
+
+### CSharp Tutorials
+
+### CPP Tutorials
+
+### GO Tutorials
+
+### Java Tutorials
+
+### JavaScript Tutorials
+
+### Python Tutorials
+* [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
+
+### Rust Tutorials
 
 ## Development tools
 
