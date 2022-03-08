@@ -23,6 +23,7 @@ If you want to contribute, please feel free to submit a PR.
     - [C++](#cpp-bots)
     - [Python](#python-bots)
   - [Tutorials](#tutorials)
+    - [General](#general-tutorials)
     - [Python](#python-tutorials)
   - [Development tools](#development-tools)
   - [License](#license)
@@ -98,6 +99,9 @@ If you want to contribute, please feel free to submit a PR.
 * [Tyr](https://github.com/SimonPrins/TyrSc2)
 
 ## Tutorials
+
+### General Tutorials
+* [Getting started competing on SC2 AI Arena](https://aiarena.net/wiki/bot-development/getting-started/)
 
 ### Python Tutorials
 
