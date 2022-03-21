@@ -73,8 +73,9 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python Libraries
 
-* [BossMan](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
+* [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
 * [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
+* [SC2_bot_chat](https://github.com/savelas81/SC2_bot_chat) - utility for sending chat messages
 
 ## Open-source bots
 
