@@ -114,6 +114,7 @@ If you want to contribute, please feel free to submit a PR.
 
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
 * [aiarena-docker](https://github.com/aiarena/aiarena-docker) - Standard arena client docker environment used in competitions.
+* [local-play-bootstrap](https://github.com/aiarena/local-play-bootstrap) - A quick setup for playing games locally
 
 ## License
 
