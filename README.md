@@ -104,11 +104,11 @@ If you want to contribute, please feel free to submit a PR.
 
 ### General Tutorials
 
-## How to begin
+#### How to begin
 * [Getting started competing on SC2 AI Arena](https://aiarena.net/wiki/bot-development/getting-started/)
 * [How to get started making your own StarCraft 2 bot](https://www.youtube.com/watch?v=qcRZydXKgi0)
 
-## Higher level concepts
+#### Higher level concepts
 * [Bot debug demonstration by Supalosa](https://www.youtube.com/watch?v=RoOdi8w3dW4)
 * [High level bot architecture (starts @ 4 mins in)](https://youtu.be/qcRZydXKgi0?t=246)
 
