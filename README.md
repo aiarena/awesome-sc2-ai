@@ -107,6 +107,7 @@ If you want to contribute, please feel free to submit a PR.
 #### How to begin
 * [Getting started competing on SC2 AI Arena](https://aiarena.net/wiki/bot-development/getting-started/)
 * [How to get started making your own StarCraft 2 bot](https://www.youtube.com/watch?v=qcRZydXKgi0)
+* [Vinsloev Academy - Learn Python - Project For Beginners [StarCraft 2 AI]](https://www.youtube.com/watch?v=4GsdHM1wBTg)
 
 #### Higher level concepts
 * [Bot debug demonstration by Supalosa](https://www.youtube.com/watch?v=RoOdi8w3dW4)
