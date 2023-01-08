@@ -73,28 +73,28 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python Libraries
 
-* [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
-* [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
-* [SC2_bot_chat](https://github.com/savelas81/SC2_bot_chat) - utility for sending chat messages
 * [SC2MapAnalysis](https://github.com/spudde123/SC2MapAnalysis) - influence maps, pathfinding
+* [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
+* [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
+* [SC2_bot_chat](https://github.com/savelas81/SC2_bot_chat) - utility for sending chat messages
 
 ## Open-source bots
 
 ### CPP bots
 
-* [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
 * [cpp-sc2/blank-bot](https://github.com/cpp-sc2/blank-bot) - empty starter bot with integrated cpp-sc2.
 * [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
-* [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
 * [MicroMachine](https://github.com/RaphaelRoyerRivard/MicroMachine)
+* [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
+* [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
 
 ### Python bots
 
-* [Chance](https://github.com/lladdy/chance-sc2)
+* [ESChamp's python-sc2 bot template](https://github.com/eschampstudio/python-sc2-bot-template)
 * [burny-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
-* [ESChamp's python-sc2 bot template](https://github.com/eschampstudio/python-sc2-bot-template)
+* [Chance](https://github.com/lladdy/chance-sc2)
 
 ### CSharp bots
 
@@ -116,14 +116,15 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python Tutorials
 
-* [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
 * [ESChamp - Simple StarCraft 2 Bot Template To Get Started](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
+* [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
 
 ## Development tools
 
+* [local-play-bootstrap](https://github.com/aiarena/local-play-bootstrap) - A quick setup for playing games locally
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
 * [aiarena-docker](https://github.com/aiarena/aiarena-docker) - Standard arena client docker environment used in competitions.
-* [local-play-bootstrap](https://github.com/aiarena/local-play-bootstrap) - A quick setup for playing games locally
+
 
 ## License
 
