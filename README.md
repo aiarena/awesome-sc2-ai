@@ -13,7 +13,7 @@ If you want to contribute, please feel free to submit a PR.
     - [JavaScript](#javascript-apis)
     - [Python](#python-apis)
     - [Rust](#rust-apis)
-    - [TypeScript APIs](#typescript-apis)
+    - [TypeScript](#typescript-apis)
   - [Frameworks](#frameworks)
     - [C#](#csharp-frameworks)
     - [Python](#python-frameworks)
