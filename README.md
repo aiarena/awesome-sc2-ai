@@ -13,6 +13,7 @@ If you want to contribute, please feel free to submit a PR.
     - [JavaScript](#javascript-apis)
     - [Python](#python-apis)
     - [Rust](#rust-apis)
+    - [TypeScript APIs](#typescript-apis)
   - [Frameworks](#frameworks)
     - [C#](#csharp-frameworks)
     - [Python](#python-frameworks)
@@ -53,12 +54,19 @@ If you want to contribute, please feel free to submit a PR.
 * [node-sc2](https://github.com/node-sc2/core)
 
 ### Python APIs
+
 * [python-sc2](https://github.com/dentosal/python-sc2) (OUTDATED. Use burny-sc2 instead)
 * [burny-sc2](https://github.com/BurnySc2/python-sc2)
 
 ### Rust APIs
+
 * [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 * [rust-sc2](https://github.com/UltraMachine/rust-sc2)
+
+### TypeScript APIs
+
+* [s2client-api-typescript](https://github.com/Zamiell/s2client-api-typescript)
+
 
 ## Frameworks
 
