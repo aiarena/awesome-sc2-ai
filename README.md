@@ -121,6 +121,8 @@ If you want to contribute, please feel free to submit a PR.
 * [Bot debug demonstration by Supalosa](https://www.youtube.com/watch?v=RoOdi8w3dW4)
 * [High level bot architecture (starts @ 4 mins in)](https://youtu.be/qcRZydXKgi0?t=246)
 
+#### Misc
+* [How to convert maps to the AIE standard](https://www.youtube.com/watch?v=lTBFy-R01Wo)
 
 ### Python Tutorials
 
