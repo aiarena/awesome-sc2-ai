@@ -113,21 +113,21 @@ If you want to contribute, please feel free to submit a PR.
 ### General Tutorials
 
 #### How to begin
-* [Getting started competing on SC2 AI Arena](https://aiarena.net/wiki/bot-development/getting-started/)
-* [How to get started making your own StarCraft 2 bot](https://www.youtube.com/watch?v=qcRZydXKgi0)
-* [Vinsloev Academy - Learn Python - Project For Beginners [StarCraft 2 AI]](https://www.youtube.com/watch?v=4GsdHM1wBTg)
+* [Getting started competing on SC2 AI Arena (Text)](https://aiarena.net/wiki/bot-development/getting-started/)
+* [How to get started making your own StarCraft 2 bot (Video)](https://www.youtube.com/watch?v=qcRZydXKgi0)
+* [Vinsloev Academy - Learn Python - Project For Beginners [StarCraft 2 AI] (Video)](https://www.youtube.com/watch?v=4GsdHM1wBTg)
 
 #### Higher level concepts
-* [Bot debug demonstration by Supalosa](https://www.youtube.com/watch?v=RoOdi8w3dW4)
-* [High level bot architecture (starts @ 4 mins in)](https://youtu.be/qcRZydXKgi0?t=246)
+* [Bot debug demonstration by Supalosa (Video)](https://www.youtube.com/watch?v=RoOdi8w3dW4)
+* [High level bot architecture (starts @ 4 mins in) (Video)](https://youtu.be/qcRZydXKgi0?t=246)
 
 #### Misc
-* [How to convert maps to the AIE standard](https://www.youtube.com/watch?v=lTBFy-R01Wo)
+* [How to convert maps to the AIE standard (Video)](https://www.youtube.com/watch?v=lTBFy-R01Wo)
 
 ### Python Tutorials
 
-* [ESChamp - Simple StarCraft 2 Bot Template To Get Started](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
-* [Sentdex - Starcraft 2 AI with Python](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
+* [ESChamp - Simple StarCraft 2 Bot Template To Get Started (Text)](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
+* [Sentdex - Starcraft 2 AI with Python (Video)](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
 
 ## Development tools
 
