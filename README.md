@@ -86,6 +86,8 @@ If you want to contribute, please feel free to submit a PR.
 * [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
 * [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
 * [SC2_bot_chat](https://github.com/savelas81/SC2_bot_chat) - utility for sending chat messages
+* [sc2-helper](https://github.com/danielvschoor/sc2-helper) - StarCraft 2 AI helper tools
+* [sc2-pathlib](https://github.com/DrInfy/sc2-pathlib) - Pathfinding and terrain analysis library for Starcraft 2 bot api in Rust 
 
 ## Open-source bots
 
