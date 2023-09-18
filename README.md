@@ -22,6 +22,7 @@ If you want to contribute, please feel free to submit a PR.
   - [Open-source bots](#open-source-bots)
     - [C#](#csharp-bots)
     - [C++](#cpp-bots)
+    - [Java](#java-bots)
     - [Python](#python-bots)
   - [Tutorials](#tutorials)
     - [General](#general-tutorials)
@@ -95,6 +96,10 @@ If you want to contribute, please feel free to submit a PR.
 * [MicroMachine](https://github.com/RaphaelRoyerRivard/MicroMachine)
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
 * [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
+
+### Java bots
+
+* [Supalosa/testbot](https://github.com/Supalosa/testbot) - ocraft bot template, using gradle
 
 ### Python bots
 
