@@ -38,8 +38,8 @@ If you want to contribute, please feel free to submit a PR.
 
 ### CPP APIs
 
-* [s2client-api](https://github.com/Blizzard/s2client-api) (OUTDATED. Use cpp-sc2 instead)
 * [cpp-sc2](https://github.com/cpp-sc2/cpp-sc2)
+* [s2client-api](https://github.com/Blizzard/s2client-api) (OUTDATED. Use cpp-sc2 instead)
 
 ### GO APIs
 
@@ -56,13 +56,13 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python APIs
 
-* [python-sc2](https://github.com/dentosal/python-sc2) (OUTDATED. Use burny-sc2 instead)
 * [burny-sc2](https://github.com/BurnySc2/python-sc2)
+* [python-sc2](https://github.com/dentosal/python-sc2) (OUTDATED. Use burny-sc2 instead)
 
 ### Rust APIs
 
-* [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 * [rust-sc2](https://github.com/UltraMachine/rust-sc2)
+* [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 
 ### TypeScript APIs
 
@@ -97,9 +97,13 @@ If you want to contribute, please feel free to submit a PR.
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
 * [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
 
+### CSharp bots
+
+* [Tyr](https://github.com/SimonPrins/TyrSc2)
+
 ### Java bots
 
-* [Supalosa/testbot](https://github.com/Supalosa/testbot) - ocraft bot template, using gradle
+* [Supalosa/testbot](https://github.com/Supalosa/testbot) - bot template with integrated ocraft. Built using gradle.
 
 ### Python bots
 
@@ -108,10 +112,6 @@ If you want to contribute, please feel free to submit a PR.
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
 * [Chance](https://github.com/lladdy/chance-sc2)
-
-### CSharp bots
-
-* [Tyr](https://github.com/SimonPrins/TyrSc2)
 
 ## Tutorials
 
