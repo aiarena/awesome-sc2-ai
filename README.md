@@ -131,6 +131,9 @@ If you want to contribute, please feel free to submit a PR.
 #### Misc
 * [How to convert maps to the AIE standard (Video)](https://www.youtube.com/watch?v=lTBFy-R01Wo)
 
+### CSharp Tutorials
+* [Sharky Tutorial - how to make a StarCraft 2 Bot](https://www.youtube.com/watch?v=2Tf0jLTJQME)
+
 ### Python Tutorials
 
 * [ESChamp - Simple StarCraft 2 Bot Template To Get Started (Text)](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
