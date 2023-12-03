@@ -115,6 +115,7 @@ If you want to contribute, please feel free to submit a PR.
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
 * [Chance](https://github.com/lladdy/chance-sc2)
+* [oops](https://github.com/raspersc2/oops)
 
 ## Tutorials
 
