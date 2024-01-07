@@ -88,7 +88,8 @@ If you want to contribute, please feel free to submit a PR.
 * [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
 * [SC2_bot_chat](https://github.com/savelas81/SC2_bot_chat) - utility for sending chat messages
 * [sc2-helper](https://github.com/danielvschoor/sc2-helper) - StarCraft 2 AI helper tools
-* [sc2-pathlib](https://github.com/DrInfy/sc2-pathlib) - Pathfinding and terrain analysis library for Starcraft 2 bot api in Rust 
+* [sc2-pathlib](https://github.com/DrInfy/sc2-pathlib) - Pathfinding and terrain analysis library for Starcraft 2 bot api in Rust
+* [SC2-Map-Segmentation](https://github.com/Kowalski1024/SC2-Map-Segmentation) - provides fully automated segmentation for Starcraft 2 maps, similar to SC2MapAnalysis
 
 ## Open-source bots
 
