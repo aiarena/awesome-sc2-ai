@@ -141,6 +141,7 @@ If you want to contribute, please feel free to submit a PR.
 
 * [ESChamp - Simple StarCraft 2 Bot Template To Get Started (Text)](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
 * [Sentdex - Starcraft 2 AI with Python (Video)](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
+* [Brax - SC2 AI Development blog](https://brax.gg/category/starcraft/)
 
 ## Development tools
 
