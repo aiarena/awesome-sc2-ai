@@ -24,6 +24,7 @@ If you want to contribute, please feel free to submit a PR.
     - [C++](#cpp-bots)
     - [Java](#java-bots)
     - [Python](#python-bots)
+  - [Machine Learning](#machine-learning)
   - [Tutorials](#tutorials)
     - [General](#general-tutorials)
     - [Python](#python-tutorials)
@@ -117,6 +118,9 @@ If you want to contribute, please feel free to submit a PR.
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
 * [Chance](https://github.com/lladdy/chance-sc2)
 * [oops](https://github.com/raspersc2/oops)
+
+## Machine Learning
+* [HierNet-SC2](https://github.com/liuruoze/HierNet-SC2)
 
 ## Tutorials
 
