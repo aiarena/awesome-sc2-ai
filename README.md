@@ -121,6 +121,9 @@ If you want to contribute, please feel free to submit a PR.
 
 ## Machine Learning
 * [HierNet-SC2](https://github.com/liuruoze/HierNet-SC2)
+* [Train your first Starcraft II learning agent](https://soygema.github.io/starcraftII_machine_learning/)
+* [Startcraft PySC2 mini-games and agents](https://github.com/SoyGema/Startcraft_pysc2_minigames)
+* [StarCraft II Unplugged : Offline Reinforcement Learning](https://gema-parreno-piqueras.medium.com/starcraft-ii-unplugged-offline-reinforcement-learning-part-i-1c9192fc03b)
 
 ## Tutorials
 
