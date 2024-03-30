@@ -89,6 +89,7 @@ If you want to contribute, please feel free to submit a PR.
 * [sc2-helper](https://github.com/danielvschoor/sc2-helper) - StarCraft 2 AI helper tools
 * [sc2-pathlib](https://github.com/DrInfy/sc2-pathlib) - Pathfinding and terrain analysis library for Starcraft 2 bot api in Rust
 * [SC2-Map-Segmentation](https://github.com/Kowalski1024/SC2-Map-Segmentation) - provides fully automated segmentation for Starcraft 2 maps, similar to SC2MapAnalysis
+* [alphastar](https://github.com/google-deepmind/alphastar) - A package from DeepMind that provides the tools to train an agent to master StarCraft II
 
 ## Open-source bots
 
