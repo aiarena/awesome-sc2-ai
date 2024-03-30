@@ -40,7 +40,6 @@ If you want to contribute, please feel free to submit a PR.
 ### CPP APIs
 
 * [cpp-sc2](https://github.com/cpp-sc2/cpp-sc2)
-* [s2client-api](https://github.com/Blizzard/s2client-api) (OUTDATED. Use cpp-sc2 instead)
 
 ### GO APIs
 
@@ -58,12 +57,10 @@ If you want to contribute, please feel free to submit a PR.
 ### Python APIs
 
 * [burny-sc2](https://github.com/BurnySc2/python-sc2)
-* [python-sc2](https://github.com/dentosal/python-sc2) (OUTDATED. Use burny-sc2 instead)
 
 ### Rust APIs
 
 * [rust-sc2](https://github.com/UltraMachine/rust-sc2)
-* [sc2-rs](https://github.com/awestlake87/sc2-rs) (OUTDATED. Use rust-sc2 instead)
 
 ### TypeScript APIs
 
