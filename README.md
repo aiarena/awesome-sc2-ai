@@ -82,6 +82,7 @@ If you want to contribute, please feel free to submit a PR.
 ### Python Libraries
 
 * [ares-sc2](https://github.com/AresSC2/ares-sc2/) - an extension on python-sc2's capabilities
+* [cython-extensions-sc2](https://github.com/AresSC2/cython-extensions-sc2) - Cython extensions extracted from ares-sc2, for use in any python-sc2 based bot.
 * [SC2MapAnalysis](https://github.com/spudde123/SC2MapAnalysis) - influence maps, pathfinding
 * [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
 * [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
