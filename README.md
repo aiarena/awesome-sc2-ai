@@ -97,7 +97,6 @@ If you want to contribute, please feel free to submit a PR.
 * [cpp-sc2/commandcenter](https://github.com/cpp-sc2/commandcenter)
 * [MicroMachine](https://github.com/RaphaelRoyerRivard/MicroMachine)
 * [suvorov-bot](https://github.com/alkurbatov/suvorov-bot)
-* [commandcenter](https://github.com/davechurchill/commandcenter) (OUTDATED. Use cpp-sc2/commandcenter instead)
 
 ### CSharp bots
 
