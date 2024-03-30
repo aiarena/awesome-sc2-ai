@@ -58,7 +58,6 @@ If you want to contribute, please feel free to submit a PR.
 ### Python APIs
 
 * [burny-sc2](https://github.com/BurnySc2/python-sc2)
-* [ares-sc2](https://github.com/AresSC2/ares-sc2/) - extends burny-sc2's capabilities.
 * [python-sc2](https://github.com/dentosal/python-sc2) (OUTDATED. Use burny-sc2 instead)
 
 ### Rust APIs
@@ -84,6 +83,7 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python Libraries
 
+* [ares-sc2](https://github.com/AresSC2/ares-sc2/) - an extension on python-sc2's capabilities
 * [SC2MapAnalysis](https://github.com/spudde123/SC2MapAnalysis) - influence maps, pathfinding
 * [queens-sc2](https://github.com/raspersc2/queens-sc2) - powerful queen management
 * [bossman](https://github.com/lladdy/bossman) - simple utility for tracking and making in game choices
