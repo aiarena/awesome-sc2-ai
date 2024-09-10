@@ -5,6 +5,7 @@ If you want to contribute, please feel free to submit a PR.
 
 ## Table of contents
 
+  - [Competitions](#competitions)
   - [APIs](#apis)
     - [C#](#csharp-apis)
     - [C++](#cpp-apis)
@@ -30,6 +31,11 @@ If you want to contribute, please feel free to submit a PR.
     - [Python](#python-tutorials)
   - [Development tools](#development-tools)
   - [License](#license)
+
+## Competitions
+
+* [AI Arena](https://aiarena.net)
+* [ProBots](https://www.probotsai.com/)
 
 ## APIs
 
