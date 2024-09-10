@@ -34,8 +34,8 @@ If you want to contribute, please feel free to submit a PR.
 
 ## Competitions
 
-* [AI Arena](https://aiarena.net)
-* [ProBots](https://www.probotsai.com/)
+* [AI Arena](https://aiarena.net) - 24/7 Ladder
+* [ProBots](https://www.probotsai.com/) - Regular Tournament
 
 ## APIs
 
