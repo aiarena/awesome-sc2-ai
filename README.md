@@ -35,7 +35,7 @@ If you want to contribute, please feel free to submit a PR.
 ## Competitions
 
 * [AI Arena](https://aiarena.net) - 24/7 Ladder
-* [ProBots](https://www.probotsai.com/) - Regular Tournament
+* [ProBots](https://www.versusai.net/how-to-compete-in-probots/) - Major Tournament Series
 
 ## APIs
 
@@ -117,7 +117,7 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python bots
 
-* [ESChamp's python-sc2 bot template](https://github.com/eschampstudio/python-sc2-bot-template)
+* [VersusAI's python-sc2 bot template](https://github.com/Vers-AI/versusai-sc2-bot-template)
 * [burny-sc2 example bots](https://github.com/BurnySc2/python-sc2/tree/develop/examples)
 * [sharpy-sc2 dummy bots](https://github.com/DrInfy/sharpy-sc2/tree/develop/dummies)
 * [TrebbleBiscuit's sc2-ai-agents](https://github.com/TrebbleBiscuit/sc2-ai-agents/)
@@ -151,9 +151,11 @@ If you want to contribute, please feel free to submit a PR.
 
 ### Python Tutorials
 
-* [ESChamp - Simple StarCraft 2 Bot Template To Get Started (Text)](https://community.eschamp.com/t/simple-starcraft-2-bot-template-to-get-started/155)
+* [VersusAI - Simple StarCraft 2 PythonBot Template To Get Started (Text)](https://www.versusai.net/labs/bot-making/simple-starcraft-2-bot-template-to-get-started-in-python/)
 * [Sentdex - Starcraft 2 AI with Python (Video)](https://www.youtube.com/watch?v=HlLK5BA0wT0&list=PLQVvvaa0QuDcBby2qVDsDv41GghEQfr5E)
 * [Brax - SC2 AI Development blog](https://brax.gg/category/starcraft/)
+* [VersusAI - Beginner's Guide to Speed Mining(Text)](https://community.versusai.net/t/speed-mining-for-sc2-ai-a-beginner-s-guide/54)
+* [VersusAI - How to Create a Python Zerg Rush Bot from Scratch (Video)](https://youtube.com/live/73sGhC3Utv4)
 
 ## Development tools
 
