@@ -160,6 +160,7 @@ If you want to contribute, please feel free to submit a PR.
 ## Development tools
 
 * [aiarena.superskill.me](https://aiarena.superskill.me) - Third party AI Arena ladder statistics
+* [Visual Studio Code Extension](https://stephanzlatarev.github.io/vscode-starcraft/) - Run your AI bots with StarCraft II within Visual Studio Code.
 * [local-play-bootstrap](https://github.com/aiarena/local-play-bootstrap) - A quick setup for playing games locally
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
 * [aiarena-docker](https://github.com/aiarena/aiarena-docker) - Standard arena client docker environment used in competitions.
