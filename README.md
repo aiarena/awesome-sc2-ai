@@ -23,6 +23,7 @@ If you want to contribute, please feel free to submit a PR.
   - [Open-source bots](#open-source-bots)
     - [C#](#csharp-bots)
     - [C++](#cpp-bots)
+    - [Go](#go-bots)
     - [Java](#java-bots)
     - [Python](#python-bots)
   - [Machine Learning](#machine-learning)
@@ -110,6 +111,10 @@ If you want to contribute, please feel free to submit a PR.
 ### CSharp bots
 
 * [Tyr](https://github.com/SimonPrins/TyrSc2)
+
+### Go bots
+
+* [BlackCompany](https://github.com/NatoBoram/BlackCompany)
 
 ### Java bots
 
