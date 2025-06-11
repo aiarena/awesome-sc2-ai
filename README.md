@@ -13,6 +13,7 @@ If you want to contribute, please feel free to submit a PR.
     - [Java](#java-apis)
     - [JavaScript](#javascript-apis)
     - [Python](#python-apis)
+    - [Ruby](#ruby-apis)
     - [Rust](#rust-apis)
     - [TypeScript](#typescript-apis)
   - [Frameworks](#frameworks)
@@ -65,6 +66,10 @@ If you want to contribute, please feel free to submit a PR.
 
 * [python-sc2](https://github.com/BurnySc2/python-sc2)
 * [pysc2](https://github.com/google-deepmind/pysc2) - Machine-learning focussed SC2 AI API.
+
+### Ruby APIs
+
+* [sc2ai gem](https://sc2ai.pages.dev/)
 
 ### Rust APIs
 
