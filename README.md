@@ -175,6 +175,7 @@ If you want to contribute, please feel free to submit a PR.
 * [local-play-bootstrap](https://github.com/aiarena/local-play-bootstrap) - A quick setup for playing games locally
 * [docker-sc2](https://github.com/cpp-sc2/docker-sc2) - A dockerized StarCraft II Linux client.
 * [aiarena-docker](https://github.com/aiarena/aiarena-docker) - Standard arena client docker environment used in competitions.
+* [SC2 AI Arena Pre-Upload Checker](https://github.com/Valessc2/sc2-aiarena-preupload-checker) - CLI tool that scans bot ZIP packages for common AI Arena upload mistakes before submission.
 
 
 ## License
